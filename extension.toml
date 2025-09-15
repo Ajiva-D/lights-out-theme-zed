@@ -1,0 +1,7 @@
+id = "lights-out"
+name = "Lights Out"
+version = "1.0.0"
+schema_version = 1
+authors = ["Ajiva"]
+description = "Lights out theme for Zed"
+repository = "https://github.com/Ajiva-D/lights-out-theme-zed"
