@@ -1,6 +1,6 @@
 id = "lights-out"
 name = "Lights Out"
-version = "1.0.0"
+version = "0.0.1"
 schema_version = 1
 authors = ["Ajiva"]
 description = "Lights out theme for Zed"
